@@ -1,0 +1,387 @@
+/*
+	@name profile
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__profile {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 926px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ellipse_1 {
+	top: 92px;
+	left: 95px;
+	width: 239px;
+	height: 239px;
+	-ms-border-radius: 119.5px / 119.5px;
+	-o-border-radius: 119.5px / 119.5px;
+	-moz-border-radius: 119.5px / 119.5px;
+	-webkit-border-radius: 119.5px / 119.5px;
+	border-radius: 119.5px / 119.5px;
+	-ms-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.15);
+	-o-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.15);
+	-webkit-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.15);
+	-moz-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.15);
+	box-shadow:0px 4px 10px 1px rgba(0,0,0,0.15);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-226.41284115035deg , rgba(108,99,255,1) 0%, rgba(255,153,0,1) 100%);
+	background: -o-linear-gradient(-226.41284115035deg , rgba(108,99,255,1) 0%, rgba(255,153,0,1) 100%);
+	background: -moz-linear-gradient(-226.41284115035deg , rgba(108,99,255,1) 0%, rgba(255,153,0,1) 100%);
+	background: -ms-linear-gradient(-226.41284115035deg , rgba(108,99,255,1) 0%, rgba(255,153,0,1) 100%);
+	background: linear-gradient(-226.41284115035deg , rgba(108,99,255,1) 0%, rgba(255,153,0,1) 100%);
+}
+
+#group_12 {
+	top: 352px;
+	left: 97px;
+	width: 234px;
+	height: 61px;
+}
+
+#elena_barboza {
+	top: 0px;
+	left: -5px;
+	width: 255px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	color:#3A3A3A;
+}
+
+#group_20 {
+	top: 31px;
+	left: 97px;
+	width: 234px;
+	height: 61px;
+}
+
+#edit_profile {
+	top: 0px;
+	left: -4px;
+	width: 250px;
+	height: 75.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+#group_7 {
+	top: 823px;
+	left: 29px;
+	width: 366px;
+	height: 53px;
+}
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 53px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	-ms-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	-o-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	-webkit-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	-moz-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	background:rgba(108,99,255,1);
+}
+
+
+#sign_out {
+	top: 11px;
+	left: 141px;
+	width: 107.5px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_9876543210 {
+	top: 472px;
+	left: 83px;
+	width: 116px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#1F1D1D;
+}
+
+
+#female {
+	top: 545px;
+	left: 83px;
+	width: 81px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#1F1D1D;
+}
+
+
+#mobile {
+	top: 450px;
+	left: 83px;
+	width: 84px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#3A3636;
+}
+
+
+#gender {
+	top: 524px;
+	left: 83px;
+	width: 91px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#3A3636;
+}
+
+
+#vector {
+	top: 463px !important;
+	position: absolute !important;
+	left: 45px;
+	width: 22px;
+	height: 22px;
+	background:url(skins/vector.png);
+	background-size:cover;
+}
+
+
+#image_2 {
+	top: 112px !important;
+	position: absolute !important;
+	left: 114px;
+	width: 200px;
+	height: 200px;
+	background:url(skins/image_2.png);
+	background-size:cover;
+}
+
+
+#vector_ek1 {
+	top: 34px !important;
+	position: absolute !important;
+	left: 384px;
+	width: 22px;
+	height: 22px;
+	background:url(skins/vector_ek1.png);
+	background-size:cover;
+}
+
+#user {
+	top: 535px;
+	left: 49px;
+	width: 22px;
+	height: 22px;
+}
+
+#vector_ek2 {
+	top: 13.75px !important;
+	position: absolute !important;
+	left: 3.67px;
+	width: 14.67px;
+	height: 5.5px;
+	background:url(skins/vector_ek2.png);
+	background-size:cover;
+}
+
+
+#vector_ek3 {
+	top: 2.75px !important;
+	position: absolute !important;
+	left: 7.33px;
+	width: 7.33px;
+	height: 7.33px;
+	background:url(skins/vector_ek3.png);
+	background-size:cover;
+}
+
+#group_22 {
+	top: 680px;
+	left: 31px;
+	width: 366px;
+	height: 55px;
+}
+#group_17 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 55px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 55px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	-o-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	-webkit-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	background:rgba(243.31,243.31,243.31,1);
+}
+
+
+#elenabarboza_gmail_com {
+	top: 16px;
+	left: 55px;
+	width: 223.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#1F1D1D;
+}
+
+#group_19 {
+	top: 21px;
+	left: 23px;
+	width: 16.67px;
+	height: 13.33px;
+}
+#group_21 {
+	top: 0px;
+	left: 0px;
+	width: 16.67px;
+	height: 13.33px;
+}
+
+#vector_ek4 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 16.67px;
+	height: 13.33px;
+	background:url(skins/vector_ek4.png);
+	background-size:cover;
+}
+
+
+#vector_ek5 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 16.67px;
+	height: 5.83px;
+	background:url(skins/vector_ek5.png);
+	background-size:cover;
+}
+
+
+#vector_ek6 {
+	top: 36px !important;
+	position: absolute !important;
+	left: 31px;
+	width: 8px;
+	height: 18px;
+	background:url(skins/vector_ek6.png);
+	background-size:cover;
+}
+
+#group_23 {
+	top: 597px;
+	left: 31px;
+	width: 366px;
+	height: 55px;
+}
+#group_17_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 55px;
+}
+
+#rectangle_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 55px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	-o-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	-webkit-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	box-shadow:0px 3px 10px 1px rgba(0,0,0,0.1);
+	background:rgba(243.31,243.31,243.31,1);
+}
+
+
+#__elenabarboza_123 {
+	top: 15px;
+	left: 55px;
+	width: 176.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#1F1D1D;
+}
+
+
+#image_3 {
+	top: 14px !important;
+	position: absolute !important;
+	left: 18px;
+	width: 27px;
+	height: 27px;
+	background:url(skins/image_3.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */

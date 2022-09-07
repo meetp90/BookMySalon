@@ -1,0 +1,236 @@
+/*
+	@name login
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__login {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 926px;
+}
+
+#group_13 {
+	top: 630px;
+	left: 33px;
+	width: 366px;
+	height: 55px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 55px;
+}
+
+
+#enter_your_otp {
+	top: 16px;
+	left: 58px;
+	width: 130.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#1F1D1D;
+}
+
+#group_2 {
+	top: 21px;
+	left: 20px;
+	width: 13px;
+	height: 14.89px;
+}
+
+#vector {
+	top: 0px;
+	left: 3px;
+	width: 7.22px;
+	height: 6.7px;
+}
+
+
+#vector_ek1 {
+	top: 7px;
+	left: 0px;
+	width: 13px;
+	height: 8.19px;
+}
+
+#group_7 {
+	top: 763px;
+	left: 31px;
+	width: 366px;
+	height: 53px;
+}
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 53px;
+}
+
+
+#done {
+	top: 11px;
+	left: 158px;
+	width: 75.5px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_9 {
+	top: 546px;
+	left: 31px;
+	width: 366px;
+	height: 55px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 55px;
+}
+
+
+#enter_your_mobile_number {
+	top: 16px;
+	left: 55px;
+	width: 216.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#1F1D1D;
+}
+
+
+#vector_ek2 {
+	top: 21px;
+	left: 20px;
+	width: 16px;
+	height: 15px;
+}
+
+#logo {
+	top: 50px;
+	left: 73px;
+	width: 278px;
+	height: 319px;
+}
+
+#b_salon_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 166px;
+	height: 249px;
+	background:url(skins/b_salon_1.png);
+	background-size:cover;
+}
+
+
+#rectangle_6 {
+	opacity:0.60000002384186;
+	top: 0px;
+	left: 1px;
+	width: 166px;
+	height: 249px;
+}
+
+
+#rectangle_6_ek1 {
+	top: 70px !important;
+	position: absolute !important;
+	left: 112px;
+	width: 166px;
+	height: 249px;
+	background:url(skins/rectangle_6_ek1.png);
+	background-size:cover;
+}
+
+#group_14 {
+	top: 408px;
+	left: 76px;
+	width: 316px;
+	height: 100px;
+}
+
+#login {
+	top: 0px;
+	left: 84px;
+	width: 152.5px;
+	height: 97.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 39px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#please_enter_the_details_below_to_continue {
+	top: 66px;
+	left: 0px;
+	width: 334.5px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color:#B2ADAD;
+}
+
+
+#forgot_password_ {
+	top: 710px;
+	left: 255px;
+	width: 165px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #6c63ff;
+	color:#6C63FF;
+}
+
+
+#don_t_have_an_account__register {
+	top: 850px;
+	left: 91px;
+	width: 269.5px;
+	height: 41.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#4E4B4B;
+}
+
+
+
+/* Add your custom CSS here */

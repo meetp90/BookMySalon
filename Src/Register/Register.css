@@ -1,0 +1,634 @@
+body{margin: 0px; padding: 0px; font-family: "Arial"; overflow: hidden;}
+img{position: absolute; display: block; margin: 0px; border: none; padding: 0px;}
+div{position: absolute;}
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  } 
+
+.images-container{
+    top: 50px;
+	left: 60px;
+	width: 278px;
+	height: 319px;
+   
+}
+
+.img1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/b_salon_1.png);
+    /* opacity:0.60000002384186; */
+}
+.img2 {
+	top: 70px !important;
+	position: absolute !important;
+	left: 112px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/rectangle_6_ek1.png)
+}
+
+.text-container {
+	top: 390px;
+	left: 55px;
+	width: 316px;
+	height: 100px;
+    align-items: center;
+    /* background-color: aqua; */
+}
+#Login-Text {
+	top: 0px;
+	left: 84px;
+	width: 152.5px;
+	height: 97.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 39px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#Login-subText {
+	top: 66px;
+	left: 0px;
+	width: 334.5px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color:#B2ADAD;
+}
+.phone-number  {
+	top: 526px;
+    margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+    
+
+}
+.phone-number input {
+    margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+    
+    
+}
+.OTP {
+	top: 610px;
+	margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+}
+.OTP input {
+	margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+}
+#forgot_password {
+	top: 670px;
+	left: 235px;
+	width: 165px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#6C63FF;
+}
+.submit_button {
+	top: 733px;
+	left: 15px;
+	width: 366px;
+	height: 53px;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    
+}
+#done {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+    background-color: #6C63FF;
+	text-decoration-color:white;
+    text-align: center;
+    border-radius: 10px;
+}
+#done_text{
+    color: white;
+    margin-top: 10px;
+    font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#don_t_have_an_account__register {
+	top: 795px;
+	left: 70px;
+	width: 269.5px;
+	height: 41.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#4E4B4B;
+}
+#register_highlight{
+    color: #6C63FF;
+} body{margin: 0px; padding: 0px; font-family: "Arial"; overflow: hidden;}
+img{position: absolute; display: block; margin: 0px; border: none; padding: 0px;}
+div{position: absolute;}
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  } 
+
+.images-container{
+    top: 50px;
+	left: 60px;
+	width: 278px;
+	height: 319px;
+   
+}
+
+.img1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/b_salon_1.png);
+    /* opacity:0.60000002384186; */
+}
+.img2 {
+	top: 70px !important;
+	position: absolute !important;
+	left: 112px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/rectangle_6_ek1.png)
+}
+
+.text-container {
+	top: 390px;
+	left: 55px;
+	width: 316px;
+	height: 100px;
+    align-items: center;
+    /* background-color: aqua; */
+}
+#Login-Text {
+	top: 0px;
+	left: 84px;
+	width: 152.5px;
+	height: 97.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 39px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#Login-subText {
+	top: 66px;
+	left: 0px;
+	width: 334.5px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color:#B2ADAD;
+}
+.phone-number  {
+	top: 526px;
+    margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+    
+
+}
+.phone-number input {
+    margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+    
+    
+}
+.OTP {
+	top: 610px;
+	margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+}
+.OTP input {
+	margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+}
+#forgot_password {
+	top: 670px;
+	left: 235px;
+	width: 165px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#6C63FF;
+}
+.submit_button {
+	top: 733px;
+	left: 15px;
+	width: 366px;
+	height: 53px;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    
+}
+#done {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+    background-color: #6C63FF;
+	text-decoration-color:white;
+    text-align: center;
+    border-radius: 10px;
+}
+#done_text{
+    color: white;
+    margin-top: 10px;
+    font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#don_t_have_an_account__register {
+	top: 795px;
+	left: 70px;
+	width: 269.5px;
+	height: 41.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#4E4B4B;
+}
+#register_highlight{
+    color: #6C63FF;
+} body{margin: 0px; padding: 0px; font-family: "Arial"; overflow: hidden;}
+img{position: absolute; display: block; margin: 0px; border: none; padding: 0px;}
+div{position: absolute;}
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  } 
+
+.images-container{
+    top: 50px;
+	left: 60px;
+	width: 278px;
+	height: 319px;
+   
+}
+
+.img1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/b_salon_1.png);
+    /* opacity:0.60000002384186; */
+}
+.img2 {
+	top: 70px !important;
+	position: absolute !important;
+	left: 112px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/rectangle_6_ek1.png)
+}
+
+.text-container {
+	top: 390px;
+	left: 55px;
+	width: 316px;
+	height: 100px;
+    align-items: center;
+    /* background-color: aqua; */
+}
+#Login-Text {
+	top: 0px;
+	left: 84px;
+	width: 152.5px;
+	height: 97.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 39px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#Login-subText {
+	top: 66px;
+	left: 0px;
+	width: 334.5px;
+	height: 43.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color:#B2ADAD;
+}
+.phone-number  {
+	top: 526px;
+    margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+    
+
+}
+.phone-number input {
+    margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+    
+    
+}
+.OTP {
+	top: 610px;
+	margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+}
+.OTP input {
+	margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+}
+#forgot_password {
+	top: 670px;
+	left: 235px;
+	width: 165px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#6C63FF;
+}
+.submit_button {
+	top: 733px;
+	left: 15px;
+	width: 366px;
+	height: 53px;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    
+}
+#done {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+    background-color: #6C63FF;
+	text-decoration-color:white;
+    text-align: center;
+    border-radius: 10px;
+}
+#done_text{
+    color: white;
+    margin-top: 10px;
+    font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#don_t_have_an_account__register {
+	top: 795px;
+	left: 70px;
+	width: 269.5px;
+	height: 41.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#4E4B4B;
+}
+#register_highlight{
+    color: #6C63FF;
+} body{margin: 0px; padding: 0px; font-family: "Arial"; overflow: hidden;}
+img{position: absolute; display: block; margin: 0px; border: none; padding: 0px;}
+div{position: absolute;}
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  } 
+
+.images-container{
+    top: 50px;
+	left: 60px;
+	width: 278px;
+	height: 319px;
+   
+}
+
+.img1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/b_salon_1.png);
+    /* opacity:0.60000002384186; */
+}
+.img2 {
+	top: 70px !important;
+	position: absolute !important;
+	left: 112px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/rectangle_6_ek1.png)
+}
+
+.text-container {
+	top: 390px;
+	left: 55px;
+	width: 316px;
+	height: 100px;
+    align-items: center;
+    /* background-color: aqua; */
+}
+#Register_Text {
+	top: 0px;
+    left: 55px;
+	align-self: center;
+	width: fit-content;
+	height: fit-content;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 39px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#Register_subText {
+	top: 66px;
+	left: 50px;
+	width: fit-content;
+	height: fit-content;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color:#B2ADAD;
+}
+.phone-number  {
+	top: 506px;
+    margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+    
+
+}
+.phone-number input {
+    margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+    
+    
+}
+.OTP {
+	top: 590px;
+	margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+}
+.OTP input {
+	margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+}
+
+.terms_conditions{
+	top: 670px;
+	left: 15px;
+    width: 356px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: left;
+	color:#B2ADAD;
+}
+.highlight{
+    top: -10px;
+}
+
+.submit_button {
+	top: 713px;
+	left: 15px;
+	width: 366px;
+	height: 53px;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    
+}
+#done {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+    background-color: #6C63FF;
+	text-decoration-color:white;
+    text-align: center;
+    border-radius: 10px;
+}
+#done_text{
+    color: white;
+    margin-top: 10px;
+    font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#alrady_have_an_account__register {
+	top: 770px;
+	left: 70px;
+	width: 269.5px;
+	height: 41.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#4E4B4B;
+}
+#register_highlight{
+    color: #6C63FF;
+}

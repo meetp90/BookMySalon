@@ -1,0 +1,785 @@
+/*
+	@name salon_profile
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 1322px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__salon_profile {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 1322px;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#rectangle_12 {
+	top: 85px !important;
+	position: absolute !important;
+	left: 30px;
+	width: 373px;
+	height: 217px;
+	background:url(skins/rectangle_12.png);
+	background-size:cover;
+}
+
+#group_7 {
+	top: 1235px;
+	left: 27px;
+	width: 374px;
+	height: 54.16px;
+}
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 374px;
+	height: 54.16px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	-ms-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	-o-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	-webkit-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	-moz-box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	box-shadow:4px 4px 10px 1px rgba(151,141,225,1);
+	background:rgba(108,99,255,1);
+}
+
+
+#book {
+	top: 11px;
+	left: 163px;
+	width: 73.5px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_102 {
+	top: 397px;
+	left: 38px;
+	width: 22px;
+	height: 22px;
+}
+#frame {
+	top: 0px;
+	left: 0px;
+	width: 22px;
+	height: 22px;
+}
+#group_101 {
+	top: 440px;
+	left: 0px;
+	width: 428px;
+	height: 245px;
+}
+
+#rectangle_26 {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 199px;
+	background:rgba(228.44,228.44,228.44,1);
+}
+
+
+#about_us {
+	top: 23px;
+	left: 40px;
+	width: 95px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#444444;
+}
+
+
+#our_services {
+	top: 221px;
+	left: 38px;
+	width: 125px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#444444;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__ut_enim_ad_minim_veniam__quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat__duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_esse_cillum_dolore_ {
+	top: 55px;
+	left: 40px;
+	width: 363px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: left;
+	color:#585858;
+}
+
+
+#vector {
+	top: 36px !important;
+	position: absolute !important;
+	left: 31px;
+	width: 8px;
+	height: 18px;
+	background:url(skins/vector.png);
+	background-size:cover;
+}
+
+#group_100 {
+	top: 315px;
+	left: 202px;
+	width: 24px;
+	height: 6px;
+}
+
+#ellipse_15 {
+	top: 0px;
+	left: 9px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	-ms-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	background:rgba(205.06,205.06,205.06,1);
+}
+
+
+#ellipse_17 {
+	top: 0px;
+	left: 18px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	-ms-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	background:rgba(205.06,205.06,205.06,1);
+}
+
+
+#ellipse_16 {
+	top: 0px;
+	left: 0px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	-ms-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 0px 10px 1px rgba(0,0,0,0.25);
+	background:rgba(160.44,160.44,160.44,1);
+}
+
+#group_104 {
+	top: 344px;
+	left: 38px;
+	width: 348px;
+	height: 60.1px;
+}
+
+#the_barber_shop {
+	top: 0px;
+	left: 0px;
+	width: 175px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#unisex {
+	top: 3px;
+	left: 299px;
+	width: 68px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#636363;
+}
+
+
+#_124_km_away {
+	top: 37px;
+	left: 28px;
+	width: 90.5px;
+	height: 24.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#707070;
+}
+
+#layer_2 {
+	top: 35px;
+	left: 2px;
+	width: 17.87px;
+	height: 17.87px;
+}
+
+#vector_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 8px;
+	width: 9.62px;
+	height: 11px;
+	background:url(skins/vector_ek1.png);
+	background-size:cover;
+}
+
+
+#vector_ek2 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 6.19px;
+	height: 16.5px;
+	background:url(skins/vector_ek2.png);
+	background-size:cover;
+}
+
+
+#vector_ek3 {
+	top: 2px !important;
+	position: absolute !important;
+	left: 5px;
+	width: 6.19px;
+	height: 16.11px;
+	background:url(skins/vector_ek3.png);
+	background-size:cover;
+}
+
+
+#vector_ek4 {
+	top: 8px !important;
+	position: absolute !important;
+	left: 10px;
+	width: 6.19px;
+	height: 10.31px;
+	background:url(skins/vector_ek4.png);
+	background-size:cover;
+}
+
+
+#vector_ek5 {
+	top: 3px !important;
+	position: absolute !important;
+	left: 11px;
+	width: 4.13px;
+	height: 4.13px;
+	background:url(skins/vector_ek5.png);
+	background-size:cover;
+}
+
+#frame_ek1 {
+	top: 33px;
+	left: 0px;
+	width: 22px;
+	height: 22px;
+}
+
+#vector_ek6 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 22px;
+	height: 22px;
+	background:url(skins/vector_ek6.png);
+	background-size:cover;
+}
+
+#group_103 {
+	top: 30px;
+	left: 211px;
+	width: 137px;
+	height: 30.1px;
+}
+
+#rectangle_15 {
+	top: 0px;
+	left: 0px;
+	width: 137px;
+	height: 25px;
+	-ms-border-radius: 22.5px;
+	-o-border-radius: 22.5px;
+	-moz-border-radius: 22.5px;
+	-webkit-border-radius: 22.5px;
+	border-radius: 22.5px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_10k {
+	top: 4px;
+	left: 107px;
+	width: 33.64px;
+	height: 33.6px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_ek2 {
+	top: 4px;
+	left: 7px;
+	width: 15px;
+	height: 16px;
+}
+
+#vector_ek7 {
+	top: 1.49px !important;
+	position: absolute !important;
+	left: 1.1px;
+	width: 12.84px;
+	height: 13.02px;
+	background:url(skins/vector_ek7.png);
+	background-size:cover;
+}
+
+#frame_ek3 {
+	top: 4px;
+	left: 45px;
+	width: 15px;
+	height: 16px;
+}
+
+#vector_ek8 {
+	top: 1.49px !important;
+	position: absolute !important;
+	left: 1.1px;
+	width: 12.84px;
+	height: 13.02px;
+	background:url(skins/vector_ek8.png);
+	background-size:cover;
+}
+
+#frame_ek4 {
+	top: 4px;
+	left: 26px;
+	width: 15px;
+	height: 16px;
+}
+
+#vector_ek9 {
+	top: 1.49px !important;
+	position: absolute !important;
+	left: 1.1px;
+	width: 12.84px;
+	height: 13.02px;
+	background:url(skins/vector_ek9.png);
+	background-size:cover;
+}
+
+#frame_ek5 {
+	top: 4px;
+	left: 64px;
+	width: 15px;
+	height: 16px;
+}
+
+#vector_ek10 {
+	top: 1.49px !important;
+	position: absolute !important;
+	left: 1.1px;
+	width: 12.84px;
+	height: 13.02px;
+	background:url(skins/vector_ek10.png);
+	background-size:cover;
+}
+
+#frame_ek6 {
+	top: 4px;
+	left: 83px;
+	width: 15px;
+	height: 16px;
+}
+
+#vector_ek11 {
+	top: 1.49px !important;
+	position: absolute !important;
+	left: 1.1px;
+	width: 12.84px;
+	height: 13.02px;
+	background:url(skins/vector_ek11.png);
+	background-size:cover;
+}
+
+#group_60 {
+	top: 698px;
+	left: 31px;
+	width: 355px;
+	height: 80px;
+}
+
+#rectangle_22 {
+	top: 0px;
+	left: 0px;
+	width: 355px;
+	height: 80px;
+	-ms-border-radius: 18px;
+	-o-border-radius: 18px;
+	-moz-border-radius: 18px;
+	-webkit-border-radius: 18px;
+	border-radius: 18px;
+	background:rgba(236.94,236.94,236.94,1);
+}
+
+#group_41 {
+	top: 14px;
+	left: 23px;
+	width: 49.15px;
+	height: 48.15px;
+}
+
+#rectangle_18 {
+	top: 0px;
+	left: 0px;
+	width: 49.15px;
+	height: 48.15px;
+	-ms-border-radius: 48px;
+	-o-border-radius: 48px;
+	-moz-border-radius: 48px;
+	-webkit-border-radius: 48px;
+	border-radius: 48px;
+	background:rgba(255,255,255,1);
+}
+
+#group {
+	top: 11px;
+	left: 14px;
+	width: 21.2px;
+	height: 24.16px;
+}
+
+#vector_ek12 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 16px;
+	width: 5.68px;
+	height: 22.97px;
+	background:url(skins/vector_ek12.png);
+	background-size:cover;
+}
+
+
+#vector_ek13 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 12.46px;
+	height: 24.16px;
+	background:url(skins/vector_ek13.png);
+	background-size:cover;
+}
+
+
+#beauty_salon_services {
+	top: 18px;
+	left: 78px;
+	width: 203.32px;
+	height: 35.09px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_200__ {
+	top: 30px;
+	left: 301px;
+	width: 51px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_30_40_mins {
+	top: 40px;
+	left: 85px;
+	width: 208.82px;
+	height: 33.59px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_105 {
+	top: 789px;
+	left: 31px;
+	width: 355px;
+	height: 80px;
+}
+
+#rectangle_22_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 355px;
+	height: 80px;
+	-ms-border-radius: 18px;
+	-o-border-radius: 18px;
+	-moz-border-radius: 18px;
+	-webkit-border-radius: 18px;
+	border-radius: 18px;
+	background:rgba(236.94,236.94,236.94,1);
+}
+
+#group_41_ek1 {
+	top: 14px;
+	left: 23px;
+	width: 49.15px;
+	height: 48.15px;
+}
+
+#rectangle_18_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 49.15px;
+	height: 48.15px;
+	-ms-border-radius: 48px;
+	-o-border-radius: 48px;
+	-moz-border-radius: 48px;
+	-webkit-border-radius: 48px;
+	border-radius: 48px;
+	background:rgba(255,255,255,1);
+}
+
+#group_ek1 {
+	top: 11px;
+	left: 14px;
+	width: 21.2px;
+	height: 24.16px;
+}
+
+#vector_ek14 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 16px;
+	width: 5.68px;
+	height: 22.97px;
+	background:url(skins/vector_ek14.png);
+	background-size:cover;
+}
+
+
+#vector_ek15 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 12.46px;
+	height: 24.16px;
+	background:url(skins/vector_ek15.png);
+	background-size:cover;
+}
+
+
+#beauty_salon_services_ek1 {
+	top: 18px;
+	left: 78px;
+	width: 203.32px;
+	height: 35.09px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_200___ek1 {
+	top: 30px;
+	left: 301px;
+	width: 51px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_30_40_mins_ek1 {
+	top: 40px;
+	left: 85px;
+	width: 208.82px;
+	height: 33.59px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_106 {
+	top: 882px;
+	left: 31px;
+	width: 355px;
+	height: 80px;
+}
+
+#rectangle_22_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 355px;
+	height: 80px;
+	-ms-border-radius: 18px;
+	-o-border-radius: 18px;
+	-moz-border-radius: 18px;
+	-webkit-border-radius: 18px;
+	border-radius: 18px;
+	background:rgba(236.94,236.94,236.94,1);
+}
+
+#group_41_ek2 {
+	top: 14px;
+	left: 23px;
+	width: 49.15px;
+	height: 48.15px;
+}
+
+#rectangle_18_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 49.15px;
+	height: 48.15px;
+	-ms-border-radius: 48px;
+	-o-border-radius: 48px;
+	-moz-border-radius: 48px;
+	-webkit-border-radius: 48px;
+	border-radius: 48px;
+	background:rgba(255,255,255,1);
+}
+
+#group_ek2 {
+	top: 11px;
+	left: 14px;
+	width: 21.2px;
+	height: 24.16px;
+}
+
+#vector_ek16 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 16px;
+	width: 5.68px;
+	height: 22.97px;
+	background:url(skins/vector_ek16.png);
+	background-size:cover;
+}
+
+
+#vector_ek17 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 12.46px;
+	height: 24.16px;
+	background:url(skins/vector_ek17.png);
+	background-size:cover;
+}
+
+
+#beauty_salon_services_ek2 {
+	top: 18px;
+	left: 78px;
+	width: 203.32px;
+	height: 35.09px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_200___ek2 {
+	top: 30px;
+	left: 301px;
+	width: 51px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_30_40_mins_ek2 {
+	top: 40px;
+	left: 85px;
+	width: 208.82px;
+	height: 33.59px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

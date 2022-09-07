@@ -1,0 +1,128 @@
+body{margin: 0px; padding: 0px; font-family: "Arial"; overflow: hidden;}
+img{position: absolute; display: block; margin: 0px; border: none; padding: 0px;}
+div{position: absolute;}
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  } 
+
+
+.header{
+    top: 20px;
+    margin-left: 20px;
+    width: 366px;
+    height: 30px;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+    align-self: center;
+	color:#000000;
+
+}
+.images-container{
+    top: 100px;
+	left: 60px;
+	width: 278px;
+	height: 321px;
+   
+}
+
+.img1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/b_salon_1.png);
+    /* opacity:0.60000002384186; */
+}
+.img2 {
+	top: 70px !important;
+	position: absolute !important;
+	left: 112px;
+	width: 166px;
+	height: 249px;
+	background-size:cover;
+    background-image: url(../../assets/rectangle_6_ek1.png)
+}
+
+.text-container {
+	top: 435px;
+	left: 40px;
+	width: 316px;
+	height: 100px;
+    align-items: center;
+    /* background-color: aqua; */
+}
+#chooseName_Text {
+	top: 0px;
+    left: 0px;
+	width: fit-content;
+	height: fit-content;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 39px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+#chooseName_subText {
+	top: 65px;
+	left: 0px;
+
+	width: fit-content;
+	height: fit-content;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	color:#B2ADAD;
+}
+.partner_name  {
+	top: 570px;
+    margin-left: 25px;
+	width: 344px;
+	height: 55px;
+    border-radius: 10px;
+    background-color:  #F3F3F3;
+    
+
+}
+.partner_name input {
+    margin-top: 10px;
+    margin-left: 25px;
+	width: 80%;
+	height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #F3F3F3;
+    
+    
+}
+
+.submit_button {
+	top: 713px;
+	left: 15px;
+	width: 366px;
+	height: 53px;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    
+}
+#next {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+    background-color: #6C63FF;
+	text-decoration-color:white;
+    text-align: center;
+    border-radius: 10px;
+}
+#next_text{
+    color: white;
+    margin-top: 10px;
+    font-family: Poppins;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+}
