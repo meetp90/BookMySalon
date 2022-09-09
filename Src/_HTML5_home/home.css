@@ -1,0 +1,210 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+.content-container { display: block; position: relative; width: 428px; width: 428px; height: 1938px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#leaf_bg {
+	top: 12px !important;
+	position: absolute !important;
+	left: 12px;
+	width: 405px;
+	height: 905px;
+	background:url(skins/leaf_bg.png);
+	background-size:cover;
+}
+#white_bg_outer {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 429px;
+	height: 1938px;
+	background:url(skins/rectangle_14.png);
+	background-size:cover;
+}
+
+
+#purple_bg {
+	top: 12px !important;
+	position: absolute !important;
+	left: 12px;
+	width: 405px;
+	height: 99%;
+	background-color: #9189E7;
+	background-size:cover;
+	border-radius: 20px;
+}
+#ellipse_8 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 178px;
+	width: 6px;
+	height: 6px;
+	background:url(skins/ellipse_8.png);
+	background-size:cover;
+}
+
+
+#ellipse_6 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 178px;
+	width: 6px;
+	height: 6px;
+	background:url(skins/ellipse_6.png);
+	background-size:cover;
+}
+
+
+#ellipse_5 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 23px;
+	width: 8px;
+	height: 8px;
+	background:url(skins/ellipse_5.png);
+	background-size:cover;
+}
+
+
+#ellipse_5_ek1 {
+	top: 44px !important;
+	position: absolute !important;
+	left: 342px;
+	width: 8px;
+	height: 8px;
+	background:url(skins/ellipse_5_ek1.png);
+	background-size:cover;
+}
+
+
+#ellipse_5_ek2 {
+	top: 36px !important;
+	position: absolute !important;
+	left: 84px;
+	width: 8px;
+	height: 8px;
+	background:url(skins/ellipse_5_ek2.png);
+	background-size:cover;
+}
+
+
+#ellipse_7 {
+	top: 67px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 6px;
+	height: 6px;
+	background:url(skins/ellipse_7.png);
+	background-size:cover;
+}
+
+.greetings{
+    top: 111px;
+    left: 0px;
+    width: 261px;
+    height: 63px;
+}
+#user_name{
+    top: 0px;
+	left: -4px;
+	width: 227px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+#greet_subtext{
+    top: 36px;
+	left: 34px;
+	width: 237px;
+	height: 36.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: center;
+	color:#BFBDE5;
+}
+.white_background{
+    top: 275px;
+	width: 100%;
+	height: fit-content;
+	-ms-border-radius: 48px;
+	-o-border-radius: 48px;
+	-moz-border-radius: 48px;
+	-webkit-border-radius: 48px;
+	border-radius: 48px;
+	background:rgba(246,246,246,1);
+}
+
+#profile_image{
+	top: 98px !important;
+	position: absolute !important;
+	left: 318px;
+	width: 71px;
+	height: 70px;
+	background:url(skins/profile_image.png);
+	background-size:cover;
+}
+.search_container{
+	opacity:0.25;
+	top: 200px;
+	left: 30px;
+	width: 340px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(217,217,217,0.25);
+}
+#magnifying_glass {
+	top: 5px !important;
+	position: absolute !important;
+	left: 8px;
+	width: 35px;
+	height: 31.35px;
+	background:url(skins/magnifying_glass_1.png);
+	background-size:cover;
+}
+#search{
+	opacity:0.25;
+	top: 0px;
+	margin-left: 52px;
+	width: 280px;
+	height: 35px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:5px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(217,217,217,0.25);	
+}
+.white_background{
+	height: 82.5%;
+	width: 100%;
+	border-radius: 50px;
+	background-color: #FFFFFF;
+}
+.banner_container{
+	top: 20px !important;
+	position: absolute;
+	left: 20px;
+    width: 355px;
+    height: 160px;
+    background: url(skins/offer_image.png);
+    background-size: cover;
+}
